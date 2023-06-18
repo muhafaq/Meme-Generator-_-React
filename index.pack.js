@@ -487,7 +487,7 @@ function Header() {
         "header",
         { className: "header" },
         _react2.default.createElement("img", {
-            src: "./images/troll-face.png",
+            src: "./troll-face.png",
             className: "header--image"
         }),
         _react2.default.createElement(
@@ -507,7 +507,7 @@ function Header() {
 /* 7 */
 /***/ (function(module, exports) {
 
-throw new Error("Module build failed: SyntaxError: C:/Users/DELL/Desktop/Afaq/Frontend Career Path/Module 11 _ React Basics/Meme Generator/components/Meme.js: Unexpected token (35:12)\n\n\u001b[0m \u001b[90m 33 | \u001b[39m        \u001b[36mconst\u001b[39m url \u001b[33m=\u001b[39m allMemes[randomNumber]\u001b[33m.\u001b[39murl\n \u001b[90m 34 | \u001b[39m        setMeme(prevMeme \u001b[33m=>\u001b[39m ({\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 35 | \u001b[39m            \u001b[33m...\u001b[39mprevMeme\u001b[33m,\u001b[39m\n \u001b[90m    | \u001b[39m            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 36 | \u001b[39m            randomImage\u001b[33m:\u001b[39m url\n \u001b[90m 37 | \u001b[39m        }))\n \u001b[90m 38 | \u001b[39m        \u001b[0m\n");
+throw new Error("Module build failed: SyntaxError: C:/Users/DELL/Desktop/Afaq/Frontend Career Path/Module 11 _ React Basics/Meme Generator/Meme.js: Unexpected token (35:12)\n\n\u001b[0m \u001b[90m 33 | \u001b[39m        \u001b[36mconst\u001b[39m url \u001b[33m=\u001b[39m allMemes[randomNumber]\u001b[33m.\u001b[39murl\n \u001b[90m 34 | \u001b[39m        setMeme(prevMeme \u001b[33m=>\u001b[39m ({\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 35 | \u001b[39m            \u001b[33m...\u001b[39mprevMeme\u001b[33m,\u001b[39m\n \u001b[90m    | \u001b[39m            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 36 | \u001b[39m            randomImage\u001b[33m:\u001b[39m url\n \u001b[90m 37 | \u001b[39m        }))\n \u001b[90m 38 | \u001b[39m        \u001b[0m\n");
 
 /***/ }),
 /* 8 */
